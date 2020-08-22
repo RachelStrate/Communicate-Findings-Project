@@ -1,4 +1,2 @@
 # Communicate-Findings-Project
-Udacity project focused on data visualisation. 
-
-This project is project #6 in the data analyst nanodegree program.  It is currently in it's very first stages.
+Udacity Project #6 for the data analyst nanodegree program. The project focuses on data visualisation of the FordGoBike August 2019 data. In progress.
