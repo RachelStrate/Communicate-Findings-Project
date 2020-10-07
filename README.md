@@ -1,6 +1,4 @@
 # FordGoBike Consumer Habits
-## by Rachel Strate
-
 
 ## Dataset
 
